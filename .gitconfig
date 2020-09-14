@@ -1,0 +1,9 @@
+[core]
+	autocrlf = input
+[alias]
+	s = status
+[credential]
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
+[user]
+	email = jeffreyjmcknight@gmail.com
+	name = Jeff McKnight
